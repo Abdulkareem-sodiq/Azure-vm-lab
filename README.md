@@ -1,4 +1,4 @@
-# Azure Virtual Machine Lab
+# Azure-VM-Lab
 
 ## Overview
 A practice lab where I deployed Windows and Linux virtual machines on Microsoft Azure and connected to them remotely.
